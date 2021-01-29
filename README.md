@@ -1,6 +1,6 @@
 # Remote Storage with Binder
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/remote_storage/master)
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-oilgains/remote_storage/main)
 
 A Binder-compatible repo that shows accessing data from remote sources.
 
